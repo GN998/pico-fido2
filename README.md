@@ -122,3 +122,6 @@ Pico FIDO2 uses the `HID` driver for FIDO and `CCID` for OpenPGP, both present i
 
 This project is released under the GNU Affero General Public License v3 (AGPLv3).
 A copy of the AGPLv3 license is available in the `LICENSE` file.
+
+## Credits
+This project uses libraries and portion of code from other projects that are detailed in the `LICENSE` file.
