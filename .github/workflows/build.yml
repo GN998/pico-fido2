@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        board: [pico2]
+        board: [pico]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
