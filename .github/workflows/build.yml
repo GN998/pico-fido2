@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        board: [pico]
+        board: [waveshare_rp2350_one]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
